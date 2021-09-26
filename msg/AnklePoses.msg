@@ -1,2 +1,2 @@
-geometry_msgs/Pose l_sole
-geometry_msgs/Pose r_sole
+geometry_msgs/Pose l_ankle
+geometry_msgs/Pose r_ankle
