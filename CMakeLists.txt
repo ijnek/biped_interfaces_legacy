@@ -12,6 +12,7 @@ find_package(geometry_msgs REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/AnklePoses.msg"
+  "msg/Phase.msg"
   DEPENDENCIES geometry_msgs
 )
 
